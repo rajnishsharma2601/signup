@@ -1,0 +1,8 @@
+{
+    "projectManager.git.baseFolders": [
+        ",,,,,,,,,,,"
+    ],
+    "accessibility.signalOptions.experimental.delays.errorAtPosition": {
+        "announcement": 3000
+    }
+}
